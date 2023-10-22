@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180317914501",
+    "project_id": "fuss-d5749",
+    "storage_bucket": "fuss-d5749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180317914501:android:bb94e669f5a867d9bcb0ec",
+        "android_client_info": {
+          "package_name": "com.fuss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAJdONhDYassk4LoVWtuYTOj4FSEK6XmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
